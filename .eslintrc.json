@@ -1,7 +1,6 @@
 {
   "extends": [
-    "airbnb",
-    "prettier"
+    "airbnb"
   ],
   "rules": {
     "no-console": "off",
